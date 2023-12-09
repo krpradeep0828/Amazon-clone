@@ -1,2 +1,2 @@
 # Amazon-clone
-I have created amazon clone with help of HTML, CSS and Bootstrap.
+I have created an amazon clone with the help of HTML, CSS and Bootstrap.
